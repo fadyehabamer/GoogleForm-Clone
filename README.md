@@ -1,2 +1,2 @@
 # Google Form 
-> Using Css3 without **jS**
+> Using Css3 without **JS**

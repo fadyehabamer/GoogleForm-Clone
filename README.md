@@ -1,12 +1,10 @@
 # Google Form 
 > Using Css3 without **JS**
 
+> **Click Effect Without JS**
 
 ```css
 .box .inputBox input:focus ~ label{
-  your style here
-  ex : 
   top : -110px;
 }
-
 ```

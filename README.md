@@ -4,7 +4,9 @@
 
 ```css
 .box .inputBox input:focus ~ label{
-your style here
+  your style here
+  ex : 
+  top : -110px;
 }
 
 ```
